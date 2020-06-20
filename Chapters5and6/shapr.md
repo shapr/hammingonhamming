@@ -11,3 +11,6 @@
 * As you go on in your careers you should examine the applications which succeed andh those wich fail; try to learn how to distinguish between them; try to understand the situations which produce successes and those which almost guarantee failure.
 
 # Chapter 6
+* What tasks are hard for computers? https://senseis.xmp.net/?OtherGamesConsideredUnprogrammable
+* Can machines think? You cannot afford to either believe or disbelieve.
+* Some level of "AI" is necessary, a mars rover would require independent navigation, the latency is too high.
