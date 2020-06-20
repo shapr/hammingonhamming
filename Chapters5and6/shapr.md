@@ -14,3 +14,5 @@
 * What tasks are hard for computers? https://senseis.xmp.net/?OtherGamesConsideredUnprogrammable
 * Can machines think? You cannot afford to either believe or disbelieve.
 * Some level of "AI" is necessary, a mars rover would require independent navigation, the latency is too high.
+* The checkers playing program modified its own constants to reward better play. Is that the same way humans learn?
+* examine your own beliefs about machine intelligence, attempt to disprove them!
