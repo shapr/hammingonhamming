@@ -22,4 +22,4 @@ This gets at the heart of my skepticism when AI "experts" in my field and otherw
 *It is difficult to get people to look at machines as good things to use whenever they will work*
 
 *It is hard to get people to aggressively think about how things in their own area might be done differently*
-This is the understatement of the century. Never underestimate the laziness of reliance on engrained knowledge in a field.
+This is the understatement of the century. Never underestimate the laziness of reliance on engrained knowledge.
