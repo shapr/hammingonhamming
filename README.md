@@ -9,3 +9,6 @@ This is the organizational repo for the reading group for Hamming's book [The Ar
 * 2020-06-27 chapters 7 and 8: write up your thoughts in the matching subdirectory of this repository.
 * 2020-07-04 US Holiday
 * 2020-07-11 chapters 9 and 10, write up and discussion
+* ICFP CONTEST, HAVE FUN
+* 2020-07-25 chapter 11 is complicated, write some code and try it out?
+* 2020-08-01 chapter 12
