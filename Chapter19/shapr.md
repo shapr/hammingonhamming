@@ -9,7 +9,11 @@ Reliability of Simulations
   related: [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) aka "When a measure becomes a target, it ceases to be a good measure." (via [Marilyn Strahern](https://en.wikipedia.org/wiki/Goodhart%27s_law#Generalization_by_Marilyn_Strathern))
 * This looks like the right article for [method of scenarios](https://en.wikipedia.org/wiki/Scenario_planning) with all the same criticisms Hamming gives in this chapter.
   one example: "a prediction that cybersecurity will become a major issue may cause organizations to implement more security cybersecurity measures, thus limiting the issue"
+* What's up with this seven to ten samples to stay inside the Nyquist limit? "We only get one half" is that the sideband thing opticron mentioned?
+  Two samples for Nyquist, time two more samples if we have "only one side", so that's at least eight? Does Hamming add two more for a margin of error?
+  * what's this "Competent designer should be able to give you the frequency content of a signal" bit?
 * I think the step by step sampling of a simulation function relates directly to [Pymaxion](https://github.com/m-clare/pymaxion) ?
+* Where would analog components still be useful? You could beat the [dolphin attack](https://www.bbc.com/news/technology-41188557) if nothing else?
 
 Questions
 * Maybe meta-simulations could be useful? How might the entire system (company?) react to particular simulation results?
