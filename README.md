@@ -13,3 +13,4 @@ This is the organizational repo for the reading group for Hamming's book [The Ar
 * 2020-07-25 chapter 11 is complicated, write some code and try it out?
 * 2020-08-01 chapter 12
 * 2021-02-13 chapter 18
+* 2021-03-13 chapter 21 
