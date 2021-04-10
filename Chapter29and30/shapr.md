@@ -41,5 +41,6 @@
 * the unexamined life is not worth living
 
 # nominations list
-* Structure and Interpretation of Computer Programs
-*
+* Structure and Interpretation of Computer Programs https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+* https://www.nand2tetris.org/
+* https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
